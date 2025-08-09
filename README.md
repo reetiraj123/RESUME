@@ -39,13 +39,13 @@ Communication Skills: Experienced
 MS Office: Experienced
 
 PROJECTS
-Capstone Project: Web development project using HTML.
+1) Capstone Project: Web development project using HTML.
 
-Project Web Dev: Collaborative web development project (forked from an open project).
+2) Project Web Dev: Collaborative web development project (forked from an open project).
 
-First: Electric Company management system in Java.
+3) First: Electric Company management system in Java.
 
-Fake-News: Real-time fake news detection application using Jupyter Notebook.
+4) Fake-News: Real-time fake news detection application using Jupyter Notebook.
 
 RELEVANT CERTIFICATIONS & EXPERIENCE
 Successfully completed the Data Analytics with Python – IIT Roorkee, NPTEL course, gaining a strong foundation in data analysis and programming with Python.
@@ -54,11 +54,8 @@ Applied analytical skills during an internship at IIT Patna, as detailed in my N
 
 Internship
 GUVI HCL Technologies OVT Ltd
-Intern
-[Add internship duration here, e.g. June 2024 – August 2024]
+Intern FULL STACK DEVELOPER
 
-Worked on [briefly describe your main tasks or skills developed, e.g.: software development, data analysis, or any specific project].
-
-[Add a notable contribution or result, if possible.]
+Worked on PIPELINES AND JIRA
 
 If you provide the duration and a short description of your responsibilities or achievements during the GUVI HCL internship, I can personalize that section further!
