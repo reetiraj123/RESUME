@@ -1,7 +1,7 @@
 # RESUME
 RESUME
 REETIRAJ GAUTAM
-Aligarh, Uttar Pradesh, 202123, India
+Uttar Pradesh, 202123, India
 reetirajgautam@gmail.com
 7505392701
 
@@ -25,7 +25,7 @@ IIT Patna, Bihar
 Bachelor of Science, CSDA — May 2026
 
 Baluni Public School, Agra, Uttar Pradesh
-Intermediate — March 2021
+Intermediate — March 2021 . . 
 
 SKILLS
 Machine Learning: Beginner
@@ -55,6 +55,7 @@ Applied analytical skills during an internship at IIT Patna, as detailed in my N
 Internship
 GUVI HCL Technologies OVT Ltd
 Intern FULL STACK DEVELOPER
+
 
 Worked on PIPELINES AND JIRA
 
