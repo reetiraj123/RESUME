@@ -3,7 +3,7 @@ RESUME
 REETIRAJ GAUTAM
 Uttar Pradesh, 202123, India
 reetirajgautam@gmail.com
-7505392701
+
 
 GitHub: https://github.com/reetiraj123
 LinkedIn: https://www.linkedin.com/in/reetiraj-gautam-9b0427330/
